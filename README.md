@@ -10,4 +10,5 @@
 4. Can delete or remove incorrect inputs
 5. Real time data storage
 ## Preview
+![Image](https://github.com/user-attachments/assets/f326b4e2-4535-4f6c-b8f8-6255d9075272)
 ![image alt](https://github.com/GrandClutch/Expense-Tracker-Project/blob/c924b8a85d11915fe27e29ff0598a60c5a5a17cd/image.png)
